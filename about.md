@@ -18,7 +18,7 @@ title: 关于我
 <font size="4">
 放一段最近很喜欢的话，与君共勉
   </font> 
-<body backgroud="https://github.com/jiaruncao/jiaruncao.github.io/blob/master/images/background.jpeg">
+<body background="https://github.com/jiaruncao/jiaruncao.github.io/blob/master/images/background.jpeg">
 <p style="text-align:center;">          
 <font size="5">               
 <strong>你背单词时</strong><br />                    
