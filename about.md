@@ -19,7 +19,9 @@ title: 关于我
 
 
 <h3> 我的博客 </h3>  
+<font size="2">
 放一段最近很喜欢的话，与君共勉
+  </font> 
 <p style="text-align:center;">          
                
 <strong>你背单词时</strong><br />                    
