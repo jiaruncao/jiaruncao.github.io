@@ -19,11 +19,11 @@ title: 关于我
 
 
 <h3> 我的博客 </h3>  
-<font size="5">
+<font size="3">
 放一段最近很喜欢的话，与君共勉
   </font> 
 <p style="text-align:center;">          
-               
+<font size="5">               
 <strong>你背单词时</strong><br />                    
 <br />
 <strong>阿拉斯加的鳕鱼正跃出水面</strong><br />                   
@@ -46,7 +46,7 @@ title: 关于我
 <br />
 <strong>正一步步向你走来</strong><br />       
 <br /> 
-
+ </font> 
 </p> 
 
 
