@@ -20,7 +20,7 @@ title: 关于我
 
 <h3> 我的博客 </h3>  
 放一段最近很喜欢的话，与君共勉
-<div align=center><br />            
+<hr align="center" width="50%" />           
                
 <strong>你背单词时</strong><br />                    
 <br />
@@ -42,7 +42,7 @@ title: 关于我
 <br />
 <strong>那些你觉得终身不会遇到的人</strong><br />       
 <br />
-<strong>正一步步向你走</strong><br />       
+<strong>正一步步向你走来</strong><br />       
 <br /> 
 
 
