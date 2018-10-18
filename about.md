@@ -10,18 +10,15 @@ title: 关于我
 
 <p>
 
-<h3> test </h3>  
 
-> * 整理知识，学习笔记
-> * 发布日记，杂文，所见所想
-> * 撰写发布技术文稿（代码支持）
-> * 撰写发布学术论文（LaTeX 公式支持）
+
 
 
 <h3> 我的博客 </h3>  
-<font size="3">
+<font size="4">
 放一段最近很喜欢的话，与君共勉
   </font> 
+<body backgroud="https://github.com/jiaruncao/jiaruncao.github.io/blob/master/images/background.jpeg">
 <p style="text-align:center;">          
 <font size="5">               
 <strong>你背单词时</strong><br />                    
@@ -48,7 +45,7 @@ title: 关于我
 <br /> 
  </font> 
 </p> 
-
+</body>
 
 
  
