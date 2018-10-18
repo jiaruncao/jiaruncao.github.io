@@ -17,7 +17,7 @@ title: 关于我
 
 <h3> 我的博客 </h3>  
 <font size="4">
-放一段最近很喜欢的话，与君共勉
+最近很喜欢的一段话，与君共勉
   </font> 
 <body background="https://github.com/jiaruncao/jiaruncao.github.io/blob/master/images/background.jpeg">
 <p style="text-align:center;">          
