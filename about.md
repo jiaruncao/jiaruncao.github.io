@@ -10,14 +10,9 @@ title: 关于我
 
 <p>
 
-<style type="text/css">
-<!--
-body {
- background-image: url('https://github.com/jiaruncao/jiaruncao.github.io/blob/master/images/background.jpeg');
-}
--->
 
-</style>
+
+
 
 
 <h3> 我的博客 </h3>  
