@@ -23,27 +23,27 @@ title: 关于我
 <div align=center><br />            
                
 <strong>你背单词时</strong><br />                    
-
+<br />
 <strong>阿拉斯加的鳕鱼正跃出水面</strong><br />                   
-
+<br />
 <strong>你算数学时</strong><br />     
-
+<br />
 <strong>太平洋彼岸的海鸥振翅掠过城市上空</strong><br />      
-
+<br />
 <strong>你晚自习时</strong><br />  
-
+<br />
 <strong>极圈中的夜空散漫了五彩斑斓</strong><br />      
-
+<br />
 <strong>但是少年你别着急</strong><br />      
-
+<br />
 <strong>在你为自己未来踏踏实实地努力时</strong><br />    
-
+<br />
 <strong>那些你感觉从来不会看到的景色</strong><br />     
-
+<br />
 <strong>那些你觉得终身不会遇到的人</strong><br />       
-
+<br />
 <strong>正一步步向你走</strong><br />       
- 
+<br /> 
 
 
 
