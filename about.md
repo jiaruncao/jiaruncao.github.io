@@ -20,7 +20,7 @@ title: 关于我
 
 <h3> 我的博客 </h3>  
 放一段最近很喜欢的话，与君共勉
-<hr align="center" width="50%" />           
+<p style="text-align:center;">          
                
 <strong>你背单词时</strong><br />                    
 <br />
@@ -45,9 +45,8 @@ title: 关于我
 <strong>正一步步向你走来</strong><br />       
 <br /> 
 
+</p> 
 
 
-我是DIVCSS5!<br /> 
-DIVCSS5网址是<strong>www.divcss5.com</strong> !<br /> 
-我被HTML strong标签<strong>加粗</strong>。
+
  
