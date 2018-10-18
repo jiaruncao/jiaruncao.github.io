@@ -20,29 +20,29 @@ title: 关于我
 
 <h3> 我的博客 </h3>  
 放一段最近很喜欢的话，与君共勉
-<div align=center>            
+<div align=center><br />            
                
-**你背单词时**                    
+<strong>你背单词时</strong><br />                    
 
-**阿拉斯加的鳕鱼正跃出水面**                    
+<strong>阿拉斯加的鳕鱼正跃出水面</strong><br />                   
 
-**你算数学时**      
+<strong>你算数学时</strong><br />     
 
-**太平洋彼岸的海鸥振翅掠过城市上空**       
+<strong>太平洋彼岸的海鸥振翅掠过城市上空</strong><br />      
 
-**你晚自习时**    
+<strong>你晚自习时</strong><br />  
 
-**极圈中的夜空散漫了五彩斑斓**       
+<strong>极圈中的夜空散漫了五彩斑斓</strong><br />      
 
-**但是少年你别着急**       
+<strong>但是少年你别着急</strong><br />      
 
-**在你为自己未来踏踏实实地努力时**      
+<strong>在你为自己未来踏踏实实地努力时</strong><br />    
 
-**那些你感觉从来不会看到的景色**       
+<strong>那些你感觉从来不会看到的景色</strong><br />     
 
-**那些你觉得终身不会遇到的人**       
+<strong>那些你觉得终身不会遇到的人</strong><br />       
 
-**正一步步向你走来**      
+<strong>正一步步向你走</strong><br />       
  
 
 
