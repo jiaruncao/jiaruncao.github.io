@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于我 
+title: 关于我(About Me) 
 ---
 
 * <font size="4">在读博士，曼彻斯特大学（英国） PhD candidate in University of Manchester</font>            
