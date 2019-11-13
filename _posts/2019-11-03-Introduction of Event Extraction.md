@@ -44,7 +44,8 @@ An event trigger is a word or multi-word that depicts the occurrence of an event
   
 The same event might appear in the form of various trigger expressions and an expression might represent different event types in different contexts.A trigger can also appear in the form of a multi-word expression. Therefore, there are two major challenges:
 - One of the main challenges is that some trigger words are ambiguous indicators of particular types of events.
-- Another challenge for this dataset is the number of triggers per sentence.
+- Another challenge for this dataset is the number of triggers per sentence.  
+
 #### 3.2 Baseline CNN model for Event Detection
 Firstly, compared with the feature-based methods that benefit from manual engineered feature sets, all neural-based methods perform better by avoiding error propagation from different NLP tools (parsers etc.) and by better representing the semantics of the words.  
 
