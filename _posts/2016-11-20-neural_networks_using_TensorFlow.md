@@ -2,7 +2,7 @@
 layout: post
 title: 使用 TensorFlow 实现神经网络
 date: 2016-11-20 
-tags: 机器学习  
+tags: Machine Learning
 ---
 
 ## 介绍
