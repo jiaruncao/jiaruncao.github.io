@@ -30,7 +30,7 @@ Typically, an event in a text is expressed by the following components:
 ### 2. Event Extraction Evaluation
 The event extraction task has been developed through several evaluations, mainly MUC, ACE, and TAC. More precisely, the evaluation in this context is based on event mentions and event arguments.The evaluation is based on the standard metrics: Precision (P), Recall (R), and F-measure (F1), defined by the following equations:  
 
-<img src="https://github.com/jiaruncao/jiaruncao.github.io/blob/master/images/posts/Introduction-of-event-extraction/1.png" />  
+<img src="https://github.com/jiaruncao/jiaruncao.github.io/blob/master/images/posts/Introduction-of-event-extraction/1.png">  
  
   
 True positives are the samples classified as belonging correctly to a class. False negatives are classified as not belonging to a class, incorrectly. False positives are the samples classified as belonging to a class, incorrectly. Precision is the fraction of relevant samples among the retrieved samples, while recall is the fraction of relevant samples that have been retrieved over the total amount of relevant samples. The F1 is the harmonic mean between these two. Because the data in EE tasks usually suffer from class imbalance, the author compute the micro-averages of these metrics for aggregating the contributions of all classes.  
@@ -53,7 +53,7 @@ Firstly, compared with the feature-based methods that benefit from manual engine
 CNNs are a good choice for event detection since they capture global representations of text and extract the most informative parts for the sequence of words and only considers their resulting activations.  
 
 Experiments show also that the choice of pre-trained embeddings has an important impact on the performance of the ED task.The data used for training the embeddings, their size, and the training algorithm influence the performance.
-<img src="https://github.com/jiaruncao/jiaruncao.github.io/blob/master/images/posts/Introduction-of-event-extraction/2.png"  alt="Baseline CNN model for ED, where Baghdad is the current trigger candidate in a context window of 2 × 4 + 1 words" />    
+<img src="https://github.com/jiaruncao/jiaruncao.github.io/blob/master/images/posts/Introduction-of-event-extraction/2.png"  alt="Baseline CNN model for ED, where Baghdad is the current trigger candidate in a context window of 2 × 4 + 1 words">    
  
 #### 3.3 Model Modification and Improvement Based on Baseline Model
 So, our hypothesis is that representing the whole sentence in a way that it can predict the existence of a trigger will further help the model distinguish between event types. The author exploit different methods to add more semantic and syntax features.  
@@ -66,14 +66,14 @@ Another approach is the encoder-decoder architecture, producing models also know
 
 For some tasks, people propose to use attention mechanism on top of the CNN or LSTM model to introduce an extra source of information to guide the extraction of sentence embeddings.  
 
-<img src="https://github.com/jiaruncao/jiaruncao.github.io/blob/master/images/posts/Introduction-of-event-extraction/3.png"  alt="ED with Sentence Embedding" />  
+<img src="https://github.com/jiaruncao/jiaruncao.github.io/blob/master/images/posts/Introduction-of-event-extraction/3.png"  alt="ED with Sentence Embedding">  
 
 ##### 3.3.2 Exploiting the internal structure of words for  Event Detection
 While word-level embeddings are meant to capture syntactic and semantic information, character-level embeddings capture morphological and shape information.  
 
 Comparing with other neural-based methods, the architecture that makes use of character-level features has the advantage of representing misspelled, custom or morphological variants of words from the dataset.  
 
-<img src="https://github.com/jiaruncao/jiaruncao.github.io/blob/master/images/posts/Introduction-of-event-extraction/4.png"  alt="ED with Character-level Embedding" />    
+<img src="https://github.com/jiaruncao/jiaruncao.github.io/blob/master/images/posts/Introduction-of-event-extraction/4.png"  alt="ED with Character-level Embedding">    
 
 
 
@@ -95,7 +95,7 @@ Since the author formulated the event extraction as a two-stage, multi-class cla
 For every sentenceW, the author check every w i to find the trigger words. If wi is a trigger word for some event of interest, the author then need to predict the roles of every argument candidate.  For every trigger detected and classified, the author use the predicted event subtype and classify every argument candidate from the sentence (filtered by Part- of-Speech (POS): the heads of all the noun or proper noun chunks). Thus, for every pair (detected trigger, candidate argument), the argument role is predicted. The first N possible roles are kept with their probability. From these roles, only those that can be part of the subset roles possible for the detected event subtype and the one who has a maximum probability is considered as a result. If there are no possible roles, then the candidate argument is categorized as an Other
 #### 4.3 CNN-based Baseline Model for Argument Role Prediction 
 The author base our model on a max-pooled CNN with word and positional embeddings as main features, which is the main architecture of the [3]. The input of the model for argument role prediction consists of sentences marked with a trigger word, its type, and one argument of interest. The author computes the maximal distance, in the training set, between the trigger and an argument linked by a relation (labeled with the event subtype) and choose an input width greater than this distance. The author ensure that every input has this length by trimming longer sentences and padding shorter sentences with a special token.  
-<img src="https://github.com/jiaruncao/jiaruncao.github.io/blob/master/images/posts/Introduction-of-event-extraction/4.png"  alt="CNN model for argument role prediction" />   
+<img src="https://github.com/jiaruncao/jiaruncao.github.io/blob/master/images/posts/Introduction-of-event-extraction/4.png"  alt="CNN model for argument role prediction">   
 
 ### Appendix
 **fastText**[2] is another popular word embedding model, which can be seen as a variant of Word2vec including character sequences in the learning of embeddings. **fastText** takes into consideration the internal structure of words, which can be of a great impact when working with morphologically rich languages (as in Finnish, Turkish or French).  
