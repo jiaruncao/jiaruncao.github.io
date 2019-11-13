@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TFRecord读写数据"
+title: "TFRecord for Data Reading and writing"
 date: 2019-04-05 
 description: ""
 tag:   Tensorflow
