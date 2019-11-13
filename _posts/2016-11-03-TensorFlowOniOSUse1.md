@@ -2,7 +2,7 @@
 layout: post
 title: TensorFlow 在 iOS 平台上的使用(一)
 date: 2016-11-03 
-tags: 机器学习    
+tags: Machine Learning    
 ---
 
 　　距离上次使用 TensorFlow 在iOS平台上做的小 Demo，已经过了四个月了，今天忽然想再看看,发现 Demo 已经不见了，我只能从头在编一次，这次发现编译 iOS 库，简单多了。
