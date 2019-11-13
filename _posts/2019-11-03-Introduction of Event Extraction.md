@@ -29,6 +29,7 @@ Typically, an event in a text is expressed by the following components:
 
 ### 2. Event Extraction Evaluation
 The event extraction task has been developed through several evaluations, mainly MUC, ACE, and TAC. More precisely, the evaluation in this context is based on event mentions and event arguments.The evaluation is based on the standard metrics: Precision (P), Recall (R), and F-measure (F1), defined by the following equations:  
+![](/images/posts/markdown/image2.png)  
 
 <img src="https://github.com/jiaruncao/jiaruncao.github.io/blob/master/images/posts/Introduction-of-event-extraction/1.png">  
  
