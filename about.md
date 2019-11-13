@@ -5,19 +5,19 @@ title: 关于我(About Me)
 
 * <font size="4">在读博士，曼彻斯特大学（英国)</font>     
   
-  PhD candidate in University of Manchester  
+PhD candidate in University of Manchester  
   
 * <font size="4">一个普通的科研工作者，研究方向：深度学习 & 自然语言处理</font>  
 
-  Reasearch Area lies in Artifical Intelligence and Natural Language Processing  
+Reasearch Area lies in Artifical Intelligence and Natural Language Processing  
   
 * <font size="4">每一个平凡的日子里，希望能记录一些点点滴滴</font>   
 
-  This personal website is to record meaningful things happened in my work and life   
+This personal website is to record meaningful things happened in my work and life   
   
 * <font size="4">爱钢琴，爱游泳，爱身边人，也爱你❤️</font>  
 
-  Love swimming, love piano, love people around, and also love you❤️          
+Love swimming, love piano, love people around, and also love you❤️          
 
 <p>
 
