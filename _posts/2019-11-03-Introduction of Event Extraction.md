@@ -3,7 +3,7 @@ layout: post
 title: "Introduction of Event Extraction"
 date: 03/11/2019
 description: "A detailed introductory article of event extraction"
-tag: Natural Language Processing
+tag: NLP
 ---   
 
 <h1><center>Introduction of Event Extraction</center></h1>
