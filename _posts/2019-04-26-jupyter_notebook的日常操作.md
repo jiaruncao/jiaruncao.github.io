@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "jupyter_notebook界面操作"
+title: "jupyter_notebook Tips"
 date: 2019-04-26 
 description: "杂项"
-tag: 杂项 
+tag: Others 
 
 ---    
 
