@@ -6,7 +6,7 @@ description: "A detailed introductory article of event extraction"
 tag: Natural Language Processing
 ---   
 
-## <center>Introduction of Event Extraction</center>
+<center>## Introduction of Event Extraction</center>
 
 ### 1. Definition of Event Extraction
 Event Extraction (EE) constitutes a challenging task with the purpose of quickly identifying events and their entities in a large number of documents. An event is described by a set of participants (i.e. attributes or roles) whose values are text excerpts.    
