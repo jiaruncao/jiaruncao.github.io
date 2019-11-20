@@ -115,3 +115,10 @@ Code and pre-trained embeddings available at https://github.com/facebookresearch
   **Please note that this is ariticle is a summary of the PhD thesis by Dr.Emanuela Boroş[1]**
 
 
+### Update: 20th, November, 2019
+A link for the newest liturature review of event extraction in Chinese:  
+
+https://chriszhangcx.github.io/%E5%A6%82%E4%BD%95%E7%8C%9C%E5%87%BA%E5%A5%B3%E6%9C%8B%E5%8F%8B%E8%AF%9D%E4%B8%AD%E7%9A%84%E5%90%AB%E4%B9%89%EF%BC%9F%E2%80%94%E2%80%94%E5%85%B3%E4%BA%8E%E4%BA%8B%E4%BB%B6%E6%8A%BD%E5%8F%96-Event-Extraction/
+
+
+
