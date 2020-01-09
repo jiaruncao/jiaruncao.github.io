@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Pycharm Tricks"
+date: 2020-01-09 
+description: "A brief summary of pycharm tricks for my daily usage"
+tag: Others 
+---   
+
+
+## 1. Debugging with PyCharm terminal arguments
+https://stackoverflow.com/questions/27952331/debugging-with-pycharm-terminal-arguments
+
