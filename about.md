@@ -3,8 +3,8 @@ layout: page
 title: 关于我(About Me) 
 ---
 
-* <font size="4">在读博士，曼彻斯特大学（英国)</font>     
-PhD candidate in University of Manchester  
+* <font size="4">在读博士，曼彻斯特大学与剑桥大学联培中...</font>     
+PhD candidate involved in a joint program with University of Manchester and University of Cambridge  
 * <font size="4">一个普通的科研工作者，研究方向：深度学习 & 自然语言处理</font>  
 Reasearch Area lies in Artifical Intelligence and Natural Language Processing  
 * <font size="4">每一个平凡的日子里，希望能记录一些点点滴滴</font>   
