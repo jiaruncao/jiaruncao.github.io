@@ -1,4 +1,4 @@
-# Jerry Cao
+# Jiarun Cao
 
 ### 使用手册
 
